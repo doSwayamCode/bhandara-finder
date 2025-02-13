@@ -296,7 +296,7 @@ function App() {
             <span>Built with love
                by Swayam :)</span>
             <a
-              href="https://github.com/doSwayamCode"
+              href="https://github.com/doSwayamCode/bhandara-finder"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 text-indigo-600 hover:text-indigo-800 transition-colors"
